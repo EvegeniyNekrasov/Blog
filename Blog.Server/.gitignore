@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .env
 .prettierrc
+/migrations
+database.db-journal
+migration.sql
